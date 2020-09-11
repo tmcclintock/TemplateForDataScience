@@ -8,3 +8,5 @@ for easy organization and best practices.
 
 Source is maintained in the appropriate location (`insight` in this example),
 while analyses would exist in the `notebooks` directory.
+
+Check out [the presentation](https://docs.google.com/presentation/d/1rJyTpUZPaCXiz43ZHQmCiq-1rEsflbFS8aCv7bgBl7Q/edit?usp=sharing) on the topic for more information.
