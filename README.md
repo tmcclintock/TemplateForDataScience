@@ -1,2 +1,2 @@
-# Template_for_MLDS
+# TemplateForDataScience
 A template repository for AI/ML/DS projects.
