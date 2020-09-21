@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/tmcclintock/Template_for_MLDS.svg?branch=master)](https://travis-ci.com/tmcclintock/TemplateForDataScience)
+[![Build Status](https://travis-ci.com/tmcclintock/TemplateForDataScience.svg?branch=master)](https://travis-ci.com/tmcclintock/TemplateForDataScience)
 
 # TemplateForDataScience
 A template repository for AI/ML/DS projects. These types of projects contain
